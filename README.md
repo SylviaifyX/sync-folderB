@@ -11,7 +11,7 @@
 
 * To build a visual appealing Product Landing Page
 
-## Skill Required live view[https://sync-intern-folder-music.vercel.app/]
+## Skill Required live view [https://sync-landing-page.vercel.app/]
 * Html
 * Css
 
