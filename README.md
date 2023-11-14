@@ -2,7 +2,7 @@
 
 ## E-Learning website(task4)
 * To Build a responsive E-learning website
-## Skill Required live view[https://sync-quiz.vercel.app/]
+## Skill Required live view [https://sync-intern-folder-b.vercel.app/]
 * Html
 * Css
 * Javascript
