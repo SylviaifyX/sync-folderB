@@ -1,4 +1,4 @@
-# Sync-Intern-Task1 & Task 4
+# Sync-Task1 & Task 4
 
 ## E-Learning website(task4)
 * To Build a responsive E-learning website
